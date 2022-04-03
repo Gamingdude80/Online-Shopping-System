@@ -1,0 +1,5 @@
+Keyboard,85.000000,65.000000,Premium gaming keyboard,7
+Phone,800.000000,650.000000,iPhone XR-Used(refurbished),5
+Monitor,290.000000,185.000000,144Hz gaming monitor ACER,1
+Desk,550.000000,535.000000,2ft tall adjustable gaming desk with drawers,47
+Mouse,90.000000,70.000000,Logitech G5 Pro,1
